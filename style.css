@@ -44,10 +44,9 @@
 
 .main-photo {
   height: initial;
-  padding: 2%;
-  border-radius: 5%;
   width: 100%;
-  height: 70%;
+  height: 63%;
+  object-fit: cover;
 }
 
 .footer-logo {
@@ -77,3 +76,8 @@ h2 {
 p {
   height: initial;
 }
+
+pre {
+  height: initial;
+}
+
